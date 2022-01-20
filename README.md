@@ -20,3 +20,7 @@ The load data process creates the database engine (SQlite3. You can use any data
 
 #### - End_session:
 Just another dag dummy operator that ends the entire process
+
+##### The below diagram shows all the passed session state with the pipeline result as success
+
+ ![](https://github.com/judeleonard/ETL_Airflow_Spark/blob/main/images/Screenshot%20(70).png)
